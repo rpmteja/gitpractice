@@ -1,0 +1,4 @@
+1. add new file to work area called gitcommands.txt
+2.make a add and commit to this file
+3. add a emty subdir/folder in your project and do git status
+and observe the output
