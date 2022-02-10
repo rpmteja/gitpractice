@@ -1,2 +1,6 @@
 xyz added new line
+<<<<<<< Updated upstream
 second test
+=======
+jkjhkjh
+>>>>>>> Stashed changes
